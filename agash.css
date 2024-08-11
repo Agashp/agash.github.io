@@ -1,4 +1,9 @@
-.aa
+
+.aash
 {
-    background-color: rgb(8, 0, 255);
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Food%20Store/em-ginger-fried-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
 }
